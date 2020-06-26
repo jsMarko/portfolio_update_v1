@@ -226,3 +226,13 @@ figcaption {
    overflow: hidden;
    padding-top: 60px;
 }
+
+.experience-image {
+   width: 100%;
+   margin: 0;
+   border: 2px solid black;
+}
+
+.image-description {
+   margin-bottom: 20px;
+}
