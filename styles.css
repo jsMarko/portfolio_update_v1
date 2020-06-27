@@ -236,6 +236,11 @@ figcaption {
    border: 2px solid black;
 }
 
+.page-link {
+   font-size: 1.2rem;
+   margin-top: 15px;
+}
+
 /* **************************** CONTACT PAGE START ************ */
 .main-contact {
    background: #444;
