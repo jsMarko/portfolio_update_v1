@@ -1,5 +1,4 @@
 @import url("https://fonts.googleapis.com/css?family=Montserrat:300,300i,400,400i,500,600,700,800,900&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Prata&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Pinyon+Script&display=swap");
 
 /* Global Layout Set-up */
@@ -208,7 +207,7 @@ a.social:hover {
    }
 }
 
-/* Experience.html styles */
+/* ******************** Experience.html styles ***************/
 
 figcaption {
    color: #df9f29;
@@ -237,7 +236,7 @@ figcaption {
    border: 2px solid black;
 }
 
-/* ************** CONTACT PAGE START ************ */
+/* **************************** CONTACT PAGE START ************ */
 .main-contact {
    background: #444;
    font-family: "Montserrat", sans-serif;
