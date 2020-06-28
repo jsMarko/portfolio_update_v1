@@ -275,7 +275,6 @@ figcaption {
    /*  ****************** HOME BTN *********  */
    grid-column: span 2;
    height: auto;
-   align-self: top;
 
    border: 2px solid lightblue;
 }
